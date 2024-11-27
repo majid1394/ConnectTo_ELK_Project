@@ -1,3 +1,4 @@
+<!--
 <configuration>
     <appender name="LOGSTASH" class="net.logstash.logback.appender.LogstashTcpSocketAppender">
         <destination>10.2.35.160:5044</destination>
@@ -8,3 +9,4 @@
         <appender-ref ref="LOGSTASH"/>
     </root>
 </configuration>
+-->
